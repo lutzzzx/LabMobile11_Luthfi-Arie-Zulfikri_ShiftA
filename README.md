@@ -12,9 +12,9 @@
 ### **1. Tampilan Awal dengan Data**
 
 <p align="center">
-  <img src="public/home1.jpg" alt="Halaman Utama" width="33%" />
-  <img src="public/home2.jpg" alt="Halaman Swipe kiri" width="33%" />
-  <img src="public/home3.jpg" alt="Halaman Swipe kanan" width="33%" />
+  <img src="public/home1.jpg" alt="Halaman Utama" width="31%" />
+  <img src="public/home2.jpg" alt="Halaman Swipe kiri" width="31%" />
+  <img src="public/home3.jpg" alt="Halaman Swipe kanan" width="31%" />
 </p>
 
 Pada halaman awal ini menampilkan daftar tugas yang sedang aktif (belum selesai). Tugas-tugas ditampilkan dalam bentuk _card_ atau daftar, dengan informasi seperti Judul tugas, Deskripsi tugas, dan Tanggal diperbarui terakhir.
@@ -43,8 +43,8 @@ Ketika pengguna mengisi formulir dan menekan tombol submit, tugas baru ditambahk
 ### **3. Tampilan Edit Data**
 
 <p align="center">
-  <img src="public/home2.jpg" alt="Halaman Swipe Kiri" width="50%" />
-  <img src="public/edit.jpg" alt="Halaman Edit Data" width="50%" />
+  <img src="public/home2.jpg" alt="Halaman Swipe Kiri" width="49%" />
+  <img src="public/edit.jpg" alt="Halaman Edit Data" width="49%" />
 </p>
 
 Untuk menampilkan edit data, pengguna harus swipe ke kiri dan mengklik tombol edit. Tampilan edit data juga berupa formulir dalam bentuk _modal_, seperti pada tambah data. Namun, formulir ini sudah diisi otomatis dengan data tugas yang dipilih untuk diedit. Elemen-elemen utama meliputi:
@@ -58,8 +58,8 @@ Setelah pengguna mengedit data dan menekan tombol submit, perubahan langsung dit
 ### **4. Tampilan Hapus Data**
 
 <p align="center">
-  <img src="public/home3.jpg" alt="Halaman Swipe Kanan" width="50%" />
-  <img src="public/hapus.jpg" alt="Halaman Hapus" width="50%" />
+  <img src="public/home3.jpg" alt="Halaman Swipe Kanan" width="49%" />
+  <img src="public/hapus.jpg" alt="Halaman Hapus" width="49%" />
 </p>
 
 Fitur hapus data diakses langsung dari daftar tugas di tampilan utama melalui aksi **Swipe ke kanan**.. Aksi ini akan langsung menghapus tugas dari daftar.Tugas yang dihapus langsung hilang dari daftar dan akan memunculkan notifikasi berhasil menghapus data
@@ -67,8 +67,8 @@ Fitur hapus data diakses langsung dari daftar tugas di tampilan utama melalui ak
 ### **5. Tampilan Complete Todo**
 
 <p align="center">
-  <img src="public/complete1.jpg" alt="Halaman Complete Swipe Kiri" width="50%" />
-  <img src="public/complete2.jpg" alt="Halaman Complete Swipe Kanan" width="50%" />
+  <img src="public/complete1.jpg" alt="Halaman Complete Swipe Kiri" width="49%" />
+  <img src="public/complete2.jpg" alt="Halaman Complete Swipe Kanan" width="49%" />
 </p>
 
 Tampilan ini adalah bagian untuk menampilkan daftar tugas yang telah selesai. Bagian ini disembunyikan di bawah sebuah _accordion_ atau bagian yang dapat diperluas. Ketika pengguna membuka bagian ini, daftar tugas selesai akan muncul dengan informasi seperti Judul tugas, Deskripsi tugas, dan Tanggal diperbarui terakhir.
